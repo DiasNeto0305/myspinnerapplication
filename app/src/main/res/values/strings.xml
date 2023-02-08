@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SpinnerApplication</string>
+
+    <string-array name="filters">
+        <item>Pré-Jogo</item>
+        <item>Ao Vivo</item>
+        <item>Código</item>
+        <item>Surpresinha</item>
+    </string-array>
+
+    <string-array name="events">
+        <item>Todos</item>
+        <item>Hoje</item>
+        <item>Em Breve</item>
+    </string-array>
+
+    <string-array name="sports">
+        <item>Futebol</item>
+        <item>Basquete</item>
+        <item>Boxe</item>
+        <item>Rugby</item>
+        <item>Voleibol</item>
+        <item>Tênis</item>
+        <item>Handebol</item>
+        <item>MMA/UFC</item>
+    </string-array>
+</resources>
